@@ -1,0 +1,11 @@
+{
+    "auto_map": {
+    "AutoConfig": "model_onnx.IndicASRConfig",
+    "AutoModel": "model_onnx.IndicASRModel"
+    },
+    "BLANK_ID": 256,
+    "RNNT_MAX_SYMBOLS": 10,
+    "PRED_RNN_LAYERS": 2,
+    "PRED_RNN_HIDDEN_DIM": 640,
+    "SOS": 256
+}
